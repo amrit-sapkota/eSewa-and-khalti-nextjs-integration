@@ -1,12 +1,12 @@
 eSewa & Khalti Integration in Next.js
 
-This project demonstrates how to integrate eSewa and Khalti, two popular Nepali payment gateways, into a Next.js 14 application using API routes for secure server-side handling.
+This project demonstrates how to integrate eSewa and Khalti, two popular Nepali payment gateways, into a Next.js 15 application using API routes for secure server-side handling.
 
 🔗 Live Demo: eSewa & Khalti Integration App
 
 🚀 Features
 
-✅ Next.js 14 (App Router)
+✅ Next.js 15 (App Router)
 
 ✅ eSewa Payment Gateway Integration
 
