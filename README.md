@@ -51,14 +51,6 @@ yarn dev
 Now, open http://localhost:3000
 to see the project in action.
 
-📖 Learn More
-
-Next.js Documentation
-
-eSewa Payment Gateway Docs
-
-Khalti Payment Gateway Docs
-
 📦 Deployment
 
 This project is deployed on Vercel.
